@@ -43,7 +43,8 @@ qiuhai-writer/
 ├─ README.md
 ├─ SKILL.md
 ├─ README-skill-usage.md
-└─ examples.md
+├─ examples.md
+└─ xhs-pipeline/
 ```
 
 ---
@@ -74,6 +75,21 @@ qiuhai-writer/
 
 ### `examples.md`
 放调用示例和推荐用法，方便后续扩展。
+
+### `xhs-pipeline/`
+小红书跑步内容生产流水线的统一入口。  
+用于：
+
+- 上传文章后生成小红书图片卡片和发布文案。
+- 自动联网搜索跑步选题，生成候选日报。
+- 给其他 Agent 提供可复用的执行规范。
+
+推荐先读：
+
+```text
+xhs-pipeline/README.md
+xhs-pipeline/AGENT.md
+```
 
 ---
 

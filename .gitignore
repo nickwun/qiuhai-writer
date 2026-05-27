@@ -4,3 +4,14 @@
 *.swp
 *.swo
 *.tmp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local transcript/download cache
+youtube-transcript/
+
+# Generated Xiaohongshu image outputs
+xhs-pipeline/workspace/packages/**/images/
+xhs-pipeline/workspace/packages/**/*.png
