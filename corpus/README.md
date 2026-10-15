@@ -18,6 +18,7 @@
 - `anti-patterns.md`：黑名单词、黑名单句式、黑名单情绪命名、常见失真点
 - `topic-samples.md`：按题材整理的短样本
 - `material-to-final-samples.md`：素材加工成稿的短对照样本
+- `author-vs-ai.md`：同题文章的作者版与 AI 版对照，用来识别 AI 润色腔
 
 ## 用法
 
